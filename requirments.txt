@@ -1,1 +1,1 @@
-install MySQL and import mysql.connector to index_r.py 
+mysql
